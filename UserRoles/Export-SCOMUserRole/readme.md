@@ -181,6 +181,6 @@ If Cloning roles, ammed the following attributes and parameters
 
 ## RELATED LINKS
 
-[Export-SCOMUserRole](Export-SCOMUserRole.md)
+[Import-SCOMUserRole](https://github.com/TheAlistairRoss/SystemCenterOperationsManager/tree/master/UserRoles/Import-SCOMUserRole)
 
 [Get-SCOMUserRole](https://docs.microsoft.com/en-us/powershell/module/operationsmanager/get-scomuserrole?view=systemcenter-ps-2019)
